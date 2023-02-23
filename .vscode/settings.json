@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./ui/designer",
+        "./ui/ui_python"
+    ]
+}
