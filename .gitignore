@@ -130,3 +130,7 @@ dmypy.json
 
 # Private Keys file
 private/private.yaml
+private/credentials.json
+
+credentials.json
+token.json
